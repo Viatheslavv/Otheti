@@ -1,8 +1,10 @@
-# ----
+---
 title: "Система поддержки принятия решений в экологическом мониторинге предприятия"
 author: "Русецкий Вячеслав Игоревич, группа М610М"
 date: "19 декабря 2017 года"
-output: word_document
+output: 
+  html_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
